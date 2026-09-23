@@ -346,25 +346,17 @@ The final Power BI solution contains **four analytical pages**.
 
 Management-level view of revenue, profit, margin, customers, orders, AOV, market performance and category performance.
 
-![Executive Overview](screenshots/01_executive_overview.png)
-
 ### 2. Sales & Profitability
 
 Analysis of revenue growth, gross profit, category margins, discount impact and loss-making transactions.
-
-![Sales and Profitability](screenshots/02_sales_profitability.png)
 
 ### 3. Customer Analytics
 
 Analysis of repeat customers, customer value, revenue contribution and RFM segmentation.
 
-![Customer Analytics](screenshots/03_customer_analytics.png)
-
 ### 4. Product & Returns Analysis
 
 Analysis of product performance, category return rates, refund leakage, return reasons and high-risk products.
-
-![Product and Returns](screenshots/04_product_returns.png)
 
 ---
 
